@@ -17,19 +17,17 @@ Welcome to my GitHub profile! I'm an enthusiastic Engineer with a strong Cloud, 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /> 
+<br/> 
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg"/>
 
 # 🎓Education
 Bachelor of Science in Information Technology - University of Central Florida (Graduating December 2025) GPA 3.37
-
-Certifications
 CompTIA Security+
 Microsoft Azure Fundamentals (AZ-900)
 CompTIA A+
 
-Inspiration
+# Inspiration
 One of my key aspirations is to inspire others to pursue careers in technology. By sharing my journey and knowledge, I aim to encourage underrepresented individuals to explore the endless possibilities in the tech industry.
 
 # Interests and Current Learning
@@ -38,7 +36,8 @@ One of my key aspirations is to inspire others to pursue careers in technology. 
 💞️ I’m looking to collaborate on: Cloud projects, DevOps projects
 
 # Contact
-Feel free to connect with me on LinkedIn or reach out via email. Let's explore the future of cloud engineering together!
+Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/isaiah-william-6b7aab249/  or email me isaiahgwilliam@gmail.com. 
+Let's explore the future of cloud engineering together!
 
 Thank you for visiting my profile! Let's connect and explore the future of cloud engineering together.
 

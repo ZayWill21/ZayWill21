@@ -1,10 +1,10 @@
 # Isaiah William - Aspiring Cloud Engineer
-Welcome to my GitHub profile! I'm a dedicated and enthusiastic aspiring Cloud Engineer with a strong foundation in cloud technologies, security, and software development. I aim to leverage my expertise in cloud engineering to drive innovation and create secure, scalable solutions.
+Welcome to my GitHub profile! I'm an enthusiastic Engineer with a strong Cloud, Security, Architecture and Automation foundation. I aim to leverage my expertise in cloud engineering to drive innovation and create secure, scalable solutions.
 
 ![image](https://github.com/user-attachments/assets/d51a5525-46a7-4091-b89f-b63491518bc0)
 
 
-About Me
+# 🎓  About Me
 Education
 Bachelor of Science in Information Technology - University of Central Florida (Graduating December 2025)
 Associate of Arts in Information Technology - Indian River State College (Graduated December 2022)
@@ -50,7 +50,7 @@ My journey into the world of STEM began with a passion for exploring innovative 
 Inspiration
 One of my key aspirations is to inspire others to pursue careers in technology. By sharing my journey and knowledge, I aim to encourage underrepresented individuals to explore the endless possibilities in the tech industry.
 
-Interests and Current Learning
+# Interests and Current Learning
 👀 I’m interested in: Anime, Basketball
 🌱 I’m currently learning: Web development
 💞️ I’m looking to collaborate on: Cloud projects, DevOps projects
@@ -59,4 +59,4 @@ Feel free to connect with me on LinkedIn or reach out via email. Let's explore t
 
 Thank you for visiting my profile! Let's connect and explore the future of cloud engineering together.
 
-#CloudEngineering #Azure #SecurityPlus #TechCommunity #ContinuousLearning
+#CloudEngineering #Azure #SecurityPlus #TechCommunity #ContinuousLearning #DevOps

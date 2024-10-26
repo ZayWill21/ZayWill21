@@ -17,9 +17,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Engineer with a strong Cloud, 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br/> 
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg"/>
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg"/>
 
 # 🎓Education
 Bachelor of Science in Information Technology - University of Central Florida (Graduating December 2025) GPA 3.37

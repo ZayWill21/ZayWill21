@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an Engineer with a strong Cloud, Security, Arc
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original wordmark.svg"/>
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original wordmark.svg" />
 
 
 # Education
@@ -26,6 +26,7 @@ Bachelor of Science in Information Technology - University of Central Florida (G
 CompTIA Security+
 Microsoft Azure Fundamentals (AZ-900)
 CompTIA A+
+Terraform Assoicate (003)
 
 # Inspiration
 One of my key aspirations is to inspire others to pursue careers in technology. By sharing my journey and knowledge, I aim to encourage underrepresented individuals to explore the endless possibilities in the tech industry.

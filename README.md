@@ -1,7 +1,7 @@
 # Isaiah William - Aspiring Cloud Engineer
 Welcome to my GitHub profile! I'm an enthusiastic Engineer with a strong Cloud, Security, Architecture and Automation foundation. I aim to leverage my expertise in cloud engineering to drive innovation and create secure, scalable solutions.
 
-![image](https://tse1.mm.bing.net/th/id/OIP.hZq6GYIQt7P6K2CfxD-6-AHaEK?rs=1&pid=ImgDetMain)
+![image] width="70px" (https://tse1.mm.bing.net/th/id/OIP.hZq6GYIQt7P6K2CfxD-6-AHaEK?rs=1&pid=ImgDetMain)
 
 ---
 ### 🧰 Languages and Tools

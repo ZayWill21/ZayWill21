@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an Engineer with a strong Cloud, Security, Arc
 
 .
 # Education
-Bachelor of Science in Information Technology - University of Central Florida (Graduating December 2025) GPA 3.37
+Bachelor of Science in Information Technology - University of Central Florida (Graduating July 2025) GPA 3.4
 CompTIA Security+
 Microsoft Azure Fundamentals (AZ-900)
 CompTIA A+

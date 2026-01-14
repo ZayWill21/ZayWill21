@@ -1,5 +1,5 @@
-# Isaiah William - DevOps and Security mindset
-Welcome to my GitHub profile! I'm an Engineer with a strong Cloud, Security, Architecture and Automation foundation. I aim to leverage my expertise in cloud engineering to drive innovation and create secure, scalable solutions.
+# Welcome to Isaiah William profile a DevSecOps Mindset
+Welcome to my GitHub profile! I'm a Cloud Deployment Engineer at AWS. I aim to leverage my expertise in cloud engineering to drive innovation, and secure deployments.
 
 ![image](https://wallpapercave.com/wp/wp7848369.jpg)
 
@@ -22,10 +22,7 @@ Welcome to my GitHub profile! I'm an Engineer with a strong Cloud, Security, Arc
 .
 # Education
 Bachelor of Science in Information Technology - University of Central Florida (Graduating July 2025) GPA 3.4
-CompTIA Security+
-Microsoft Azure Fundamentals (AZ-900)
-CompTIA A+
-Terraform Assoicate (003)
+Master of Science in Cybersecurity and Information Assurance - Western Governors University
 
 # Inspiration
 One of my key aspirations is to inspire others to pursue careers in technology. By sharing my journey and knowledge, I aim to encourage underrepresented individuals to explore the endless possibilities in the tech industry.
@@ -37,8 +34,8 @@ One of my key aspirations is to inspire others to pursue careers in technology. 
 
 # Contact
 Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/isaiah-william-6b7aab249/  or email me isaiahgwilliam@gmail.com. 
-Let's explore the future of cloud engineering together!
+Let's explore the future of DevOps engineering together!
 
 Thank you for visiting my profile! Let's connect and explore the future of cloud engineering together.
 
-#CloudEngineering #Azure #Security #Networking #TechCommunity #ContinuousLearning #DevOps
+#CloudEngineering #AWS #Security #Networking #TechCommunity #ContinuousLearning #DevOps

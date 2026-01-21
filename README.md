@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm a Cloud Deployment Engineer at AWS. I aim to l
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-.
 # Education
-Bachelor of Science in Information Technology - University of Central Florida (Graduating July 2025) GPA 3.4
+Bachelor of Science in Information Technology - University of Central Florida GPA 3.4
 Master of Science in Cybersecurity and Information Assurance - Western Governors University
 
 # Inspiration
@@ -30,12 +29,12 @@ One of my key aspirations is to inspire others to pursue careers in technology. 
 # Interests and Current Learning
 👀 I’m interested in: Anime, Basketball
 🌱 I’m currently learning: Automation
-💞️ I’m looking to collaborate on: Cloud projects, DevOps projects
+💞️ I’m looking to collaborate on: Cloud, DevOps, Security
 
 # Contact
 Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/isaiah-william-6b7aab249/  or email me isaiahgwilliam@gmail.com. 
 Let's explore the future of DevOps engineering together!
 
-Thank you for visiting my profile! Let's connect and explore the future of cloud engineering together.
+Thank you for visiting my profile!
 
-#CloudEngineering #AWS #Security #Networking #TechCommunity #ContinuousLearning #DevOps
+#CloudEngineering #AWS #Security #Networking #TechCommunity #ContinuousLearning #DevOps #DevSecOps, #Security

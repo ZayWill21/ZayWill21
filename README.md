@@ -1,5 +1,5 @@
 # Welcome to Isaiah William profile a DevSecOps Mindset
-Welcome to my GitHub profile! I'm a Cloud Deployment Engineer at AWS. I aim to leverage my expertise in cloud engineering to drive innovation, and secure deployments.
+Welcome to my GitHub profile! I'm a Cloud Support Engineer (DevOps) at AWS. I aim to leverage my expertise in cloud engineering to drive innovation, and secure deployments.
 
 ![image](https://wallpapercave.com/wp/wp7848369.jpg)
 
@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a Cloud Deployment Engineer at AWS. I aim to l
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 
 # Education
 Bachelor of Science in Information Technology - University of Central Florida GPA 3.4

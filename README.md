@@ -17,22 +17,22 @@ Welcome to my GitHub profile! I'm a Cloud Support Engineer (DevOps) at AWS. I ai
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> \n
 
 
-# Education
+## Education
 Bachelor of Science in Information Technology - University of Central Florida GPA 3.4
 Master of Science in Cybersecurity and Information Assurance - Western Governors University
 
-# Inspiration
+## Inspiration
 One of my key aspirations is to inspire others to pursue careers in technology. By sharing my journey and knowledge, I aim to encourage underrepresented individuals to explore the endless possibilities in the tech industry.
 
-# Interests and Current Learning
+## Interests and Current Learning
 👀 I’m interested in: Anime, Basketball
 🌱 I’m currently learning: Automation
 💞️ I’m looking to collaborate on: Cloud, DevOps, Security
 
-# Contact
+## Contact
 Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/isaiah-william-6b7aab249/  or email me isaiahgwilliam@gmail.com. 
 Let's explore the future of DevOps engineering together!
 
